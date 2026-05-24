@@ -86,7 +86,7 @@ A estrutura do projeto separa a lógica de jogo (Managers e NPCs) da interface d
 
 ### Clonar o repositório
 
-    git clone https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti4-2025-2-g03-harvestvalley
+    git clone https://github.com/ygabsxw/Haverst-Valley.git
 
 ### Acessar a pasta do projeto
 
