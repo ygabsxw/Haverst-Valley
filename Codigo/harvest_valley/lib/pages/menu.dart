@@ -120,7 +120,7 @@ class MainMenu extends StatelessWidget {
                                 currentMap: 'playerFarm',
                                 playerX: 69 * 16,
                                 playerY: 24 * 16,
-                                money: 200000,
+                                money: 0,
                                 inventory: List.generate(
                                   4,
                                   (_) => InventorySlotState(),
