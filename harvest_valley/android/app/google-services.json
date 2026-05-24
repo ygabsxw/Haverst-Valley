@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155483655749",
+    "project_id": "harvest-valley-ti4",
+    "storage_bucket": "harvest-valley-ti4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155483655749:android:046ffc92f60d0810ca9d2c",
+        "android_client_info": {
+          "package_name": "com.example.harvest_valley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqX-nJAmGtjOn3I-42DeW00ccnst3Yspw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
